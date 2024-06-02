@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+    width: 100%;
+    text-align: center;
+}
+.container{
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+.img-container{
+    display: block;
+    width: 30%;
+    margin: auto;
+}
+
+.img-container img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.wp-icon{
+    display: block;
+    width: 20%;
+    margin: auto;
+}
